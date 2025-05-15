@@ -28,7 +28,7 @@ The correction is performed by a machine learning model, selected based on resea
 
 1. **Clone the repository:**
    ```bash
-   git clone <repo_url>
+   git clone https://github.com/KozlovKY/RuPunctuation.git
    cd RuPunctNet
    ```
 2. **Create a virtual environment (optional but recommended):**
