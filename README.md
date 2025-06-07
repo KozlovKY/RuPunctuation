@@ -4,19 +4,19 @@
 
 ---
 
-## 🚀 Overview
+## Overview
 RuPunctNet is a project dedicated to automatic punctuation correction in Russian texts. The main goal is to create a service (e.g., a Telegram bot) that processes user sentences and returns the same text with correct punctuation marks (`.`, `,`, `?`, `!`) according to Russian language rules.
 
 The correction is performed by a machine learning model, selected based on research conducted within this project. The punctuation restoration task is typically approached as a Named Entity Recognition (NER) classification problem.
 
 ---
 
-## 📦 Features
+## Features
 - **Data Collection & EDA:** Extensive exploratory data analysis and cleaning of Russian texts from Wikipedia and books.
 - **Baselines & Deep Learning:** Rule-based, classical ML, and deep learning (Transformers) models for punctuation restoration.
 ---
 
-## 🗂️ Project Structure
+## Project Structure
 - `data/` — Data collection, cleaning scripts, and annotated datasets.
 - `EDA/` — Notebooks and scripts for exploratory data analysis and markup creation.
 - `experiments/` — Deep learning experiments (BERT, XLM-Roberta, CRF, etc.).
@@ -24,7 +24,7 @@ The correction is performed by a machine learning model, selected based on resea
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 1. **Clone the repository:**
    ```bash
@@ -43,22 +43,19 @@ The correction is performed by a machine learning model, selected based on resea
 
 ---
 
-## 📁 Folder Descriptions
+## Folder Descriptions
 - **data/**: Raw and processed datasets, scripts for data preparation, and annotation.
 - **EDA/**: Notebooks for data analysis, statistics, and visualization.
 - **experiments/**: Deep learning model training and evaluation notebooks.
 
 ---
 
-## 📜 License
+## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 🤝 Contributing
+## Contributing
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page or submit a pull request.
 
 ---
-
-## 📬 Contact
-For questions or suggestions, please open an issue or contact the maintainer.
