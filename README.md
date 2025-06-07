@@ -43,19 +43,3 @@ The correction is performed by a machine learning model, selected based on resea
 
 ---
 
-## Folder Descriptions
-- **data/**: Raw and processed datasets, scripts for data preparation, and annotation.
-- **EDA/**: Notebooks for data analysis, statistics, and visualization.
-- **experiments/**: Deep learning model training and evaluation notebooks.
-
----
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-## Contributing
-Contributions, issues, and feature requests are welcome! Feel free to check the issues page or submit a pull request.
-
----
